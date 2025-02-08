@@ -1,0 +1,31 @@
+header {
+    height: 86px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 75px 0 165px;
+}
+
+.logo {
+    width: 255px;
+}
+
+header nav {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+header nav ul{
+    display: flex;
+    gap: 20px;
+}
+
+.header_icons {
+    display: flex;
+    gap: 25px;
+}
+
+.header_icons img {
+    height: 20px;
+}

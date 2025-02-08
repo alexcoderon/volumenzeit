@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 14px;
+    color: #939393;
+    line-height: 12px;
+    background-color: #F9FAFE;
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+ul,
+li,
+ol {
+    list-style-type: none;
+}
+
+button {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+.active_text {
+    color: black;
+}
+
+.start_design {
+    border: none;
+    border-radius: 5px;
+    padding: 22px 25px;
+    background-color: #735CFF;
+    color: #fff;
+}
