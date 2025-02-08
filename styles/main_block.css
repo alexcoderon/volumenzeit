@@ -1,0 +1,30 @@
+main {
+
+}
+
+.head_block {
+    background-color: #F9FAFE;
+    min-height: 67vh;
+    position: relative;
+    display: flex;
+    padding-left: 59px;
+    padding-top: 158px;
+}
+
+.head_block_text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 25px;
+    max-width: 40vw;
+}
+
+.head_block_text > p {
+    line-height: 28px;
+}
+
+.head_block_watch {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
